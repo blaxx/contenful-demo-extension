@@ -1,0 +1,6 @@
+{
+  "id": "dbad-demo-extension",
+  "name": "Demo Extension",
+  "src": "http://localhost:8000/extension.html",
+  "fieldTypes": ["Symbols"]
+}
